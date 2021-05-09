@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tt:tblock1"
+    }
+  ],
+  "result": {
+    "item": "tt:titem1",
+    "count": 9
+  }
+}

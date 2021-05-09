@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:ores/test"
+  },
+  "result": "tt:titem1",
+  "experience": 0.7,
+  "cookingtime": 100
+}
